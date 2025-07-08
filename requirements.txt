@@ -1,0 +1,8 @@
+flask
+tensorflow
+opencv-python
+numpy
+matplotlib
+seaborn
+Pillow
+mysql-connector-python
